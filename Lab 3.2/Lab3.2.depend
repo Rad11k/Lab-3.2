@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667327477 source:c:\users\nikit\desktop\lab3.2\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+
